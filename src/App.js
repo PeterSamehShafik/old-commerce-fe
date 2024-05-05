@@ -10,7 +10,7 @@ import UserControl from './Components/UserControl/UserControl';
 import ProductControl from './Components/ProductControl/ProductControl';
 import axios from 'axios';
 
-export const baseURL = 'http://localhost:5000/api/v1'
+export const baseURL = 'https://old-commerce-be.vercel.app/api/v1'
 export const BEARERKEY = 'Peter__'
 
 function App() {
